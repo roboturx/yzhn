@@ -1,0 +1,437 @@
+.institutionMobile {
+    display: none;
+}
+
+.logo {
+    margin-top: 20px !important;
+}
+
+.searchMenuButton, .mobileSearch {
+    display: none;
+}
+
+.breadcrumb, .breadcrumb a {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 12px;
+}
+
+.dropdown ul.dropdown-menu:after {
+    right: 1px;
+}
+
+.dropdown ul.dropdown-menu:before {
+    right: 144px;
+}
+
+.dropdown ul.dropdown-menu {
+    width: 180px;
+}
+
+.dropdown ul.dropdown-menu li {
+    padding-left: 10px !important;
+    background: #d4d4d4;
+}
+
+header .top-menu li {
+    padding: 0 0 0 10px;
+    #background: #d4d4d4;
+}
+
+header #custom-search-input {
+    width: 450px;
+    height: 35px;
+    margin-top: 3px !important;
+}
+
+.tt-menu {
+    width: 367px;
+    max-height: 450px;
+    overflow-y: auto;
+}
+
+header #custom-search-input button {
+    margin: 2px 0 0 0;
+}
+
+header #custom-search-input input {
+    margin: 3px 0 !important;
+    padding-left: 15px !important;
+}
+
+#custom-search-input .input-group-addon {
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+}
+
+#searchOptions {
+    display: none;
+}
+
+.nice-select.small {
+    margin-left: -10px;
+    margin-top: -1px;
+    height: 35px !important;
+    line-height: 33px !important;
+}
+
+.nice-select.small ul li {
+    margin: 0px;
+}
+
+.nice-select.small .option {
+    width: 113px;
+}
+
+.pace-running > *:not(.pace) {
+    opacity:0;
+}
+
+.content-option h3 {
+    font-size: 1.9rem;
+}
+
+.slider {
+    height: auto;
+}
+
+img.owl-lazy {
+    height: 420px;
+}
+
+.footer-membership {
+    padding: 40px 0;
+}
+
+footer .clearfix {
+    min-height: 5px;
+}
+
+footer .col-sm-3, footer .col-sm-4 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.btn-jurix, .btn-default {
+    padding: 10px 10px;
+    font-weight: 600;
+}
+
+.icon-box {
+    height: 37px;
+}
+
+.icon-box .details {
+    height: 37px;
+}
+
+.icon-box .col-xs-2, .icon-box .col-xs-10 {
+    padding: 7px 5px 7px 9px;
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.search-option-box header {
+    height: 30px;
+    font-size: 1.5rem;
+}
+
+.search-option-box header .categories {
+    height: 30px;
+}
+
+.search-option-box header .content {
+    height: 30px;
+}
+
+.search-option-box header .date {
+    height: 30px;
+}
+
+.search-option-box header .magazine {
+    height: 30px;
+}
+
+.search-option-box header .writer {
+    height: 30px;
+}
+
+.search-option-box header .col-xs-2, .search-option-box header .col-xs-8, .search-option-box header .col-xs-10 {
+    padding: 3px 10px;
+}
+
+.btn-institution {
+    margin-top: 3px;
+    padding: 6px 8px 6px 9px !important;
+}
+
+.userMenuButton a {
+    margin-top: 3px;
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
+}
+
+@media only screen and (device-width: 768px) {
+
+    header #custom-search-input {
+        width: 300px;
+    }
+
+    .slider-text h1, .slider-text h2 {
+        letter-spacing: 0px !important;
+    }
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
+    .cd-dropdown-trigger span {
+        display: none;
+    }
+    .institutionDesktop {
+        display: none;
+    }
+
+    .institutionMobile {
+        display: block;
+    }
+
+    nav.cd-dropdown {
+        width: 40% !important;
+        left: 450px;
+        height: 550px;
+    }
+    header #custom-search-input .btn {
+        display: block;
+    }
+    #custom-search-input .input-group-addon {
+        width: 40px;
+    }
+    header #custom-search-input input {
+        width: 200px;
+    }
+    .jurix-header {
+        height: 64px;
+    }
+    #custom-search-input {
+        width: 340px !important;
+        height: 35px;
+    }
+    header .top-menu li.searchBox {
+        display: none;
+    }
+    header .top-menu {
+        float: right !important;
+    }
+    .loginLabel {
+        display: none;
+    }
+    a.cd-dropdown-trigger.btn.btn-link {
+        padding-right: 0px !important;
+        margin-right: 5px;
+        margin-top: 5px;
+    }
+    i.icon.ion-navicon-round {
+        font-size: 40px;
+    }
+    .mic {
+        margin-top: -22px;
+    }
+    .searchMenuButton {
+        display: list-item;
+    }
+    .userMenuButton {
+        padding-left: 0px !important;
+        margin-right: 5px !important;
+    }
+    header .top-menu li.userMenuButton a, header .top-menu li.institutionMobile a {
+        margin-right: 20px;
+    }
+    i.icon.ion-android-contact, i.ion-search {
+        font-size: 20px;
+        margin-right: 0px !important;
+    }
+    .userMenuButton a, .searchMenuButton a, .institutionMobile a {
+        margin-top: 7px;
+        padding: 6px !important;
+        height: 40px;
+        width: 40px;
+        display: block;
+        border-radius: 50%;
+    }
+    .institutionMobile a i {
+        font-size: 20px;
+        margin-left: 4px;
+        margin-top: 3px;
+    }
+    .mobileSearch {
+        display: none;
+        background: lightgray;
+        height: 64px;
+        padding-top: 10px;
+    }
+    .searchShown {
+        display: block;
+    }
+    .slider {
+        margin-top: -64px !important;
+    }
+    .slider-text h1, .slider-text h2 {
+        letter-spacing: 0px !important;
+    }
+    .no-margin {
+        margin-top: 0px !important;
+    }
+    section.nedir-section, section.infobox-section, section.article-section {
+        margin-top: 0px !important;
+    }
+    section.nedir-section, section.infobox-section, section.article-section {
+        margin-bottom: 0px !important;
+    }
+    section.article-section .clearfix.t-margin.b-margin, .clearfix hr {
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+    }
+    .clearfix hr {
+        margin-bottom: 20px !important;
+    }
+    .infobox {
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+    }
+    figure.effect-julia.box-4.smaller {
+        height: 178px;
+        overflow: hidden;
+    }
+    .content-box {
+        background-size: 50% !important;
+    }
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {
+    header #custom-search-input button i {
+        display: none;
+    }
+}
+
+@media only screen and (max-width: 375px) {
+    a.cd-dropdown-trigger.btn.btn-link {
+        margin-left: 0px;
+    }
+    .institutionDesktop {
+        display: none;
+    }
+
+    .institutionMobile {
+        display: block;
+    }
+
+    nav.cd-dropdown {
+        width: 60% !important;
+        left: 150px;
+    }
+    header #custom-search-input .btn {
+        display: block;
+    }
+    #custom-search-input .input-group-addon {
+        width: 40px;
+    }
+    header #custom-search-input input {
+        width: 200px;
+    }
+    .jurix-header {
+        height: 64px;
+    }
+    #custom-search-input {
+        width: 340px !important;
+        height: 35px;
+    }
+    header .top-menu li.searchBox {
+        display: none;
+    }
+    header .top-menu {
+        float: right !important;
+    }
+    .loginLabel {
+        display: none;
+    }
+    a.cd-dropdown-trigger.btn.btn-link {
+        padding-right: 0px !important;
+        margin-right: 5px;
+        margin-top: 5px;
+    }
+    i.icon.ion-navicon-round {
+        font-size: 40px;
+    }
+    .mic {
+        margin-top: -22px;
+    }
+    .searchMenuButton {
+        display: list-item;
+    }
+    .userMenuButton {
+        padding-left: 0px !important;
+        margin-right: 5px !important;
+    }
+    header .top-menu li.userMenuButton a, header .top-menu li.institutionMobile a {
+        margin-right: 20px;
+    }
+    i.icon.ion-android-contact, i.ion-search {
+        font-size: 20px;
+        margin-right: 0px !important;
+    }
+    .userMenuButton a, .searchMenuButton a, .institutionMobile a {
+        margin-top: 7px;
+        padding: 6px !important;
+        height: 40px;
+        width: 40px;
+        display: block;
+        border-radius: 50%;
+    }
+    .institutionMobile a i {
+        font-size: 20px;
+        margin-left: 4px;
+        margin-top: 3px;
+    }
+    .mobileSearch {
+        display: none;
+        background: lightgray;
+        height: 64px;
+        padding-top: 10px;
+    }
+    .searchShown {
+        display: block;
+    }
+    .slider {
+        margin-top: -64px !important;
+    }
+    .slider-text h1, .slider-text h2 {
+        letter-spacing: 0px !important;
+    }
+    .no-margin {
+        margin-top: 0px !important;
+    }
+    section.nedir-section, section.infobox-section, section.article-section {
+        margin-top: 0px !important;
+    }
+    section.nedir-section, section.infobox-section, section.article-section {
+        margin-bottom: 0px !important;
+    }
+    section.article-section .clearfix.t-margin.b-margin, .clearfix hr {
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
+    }
+    .clearfix hr {
+        margin-bottom: 20px !important;
+    }
+    .infobox {
+        padding-top: 0px !important;
+        padding-bottom: 0px !important;
+    }
+    figure.effect-julia.box-4.smaller {
+        height: 178px;
+        overflow: hidden;
+    }
+    .content-box {
+        background-size: 50% !important;
+    }
+}
+

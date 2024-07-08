@@ -1,0 +1,25 @@
+@media print {
+    .jurix-header,
+    .container {
+        display: none;
+    }
+
+    #printSec {
+        display: block;
+        page-break-after: always;
+        z-index: 1;
+    }
+
+    #watermark {
+        display: block;
+        position: fixed;
+        top: 35%;
+        left: 200px;
+        transform: rotate(45deg);
+        transform-origin: 50% 50%;
+        opacity: .3;
+        font-size: 100px;
+        color: lightgrey;
+        text-align: center;
+    }
+}
