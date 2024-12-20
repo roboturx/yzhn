@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dava>
+    <versiyon>2</versiyon>
+    <konu/>
+    <barkodNo>5001219653976-1</barkodNo>
+    <taraflar>
+        <taraf>
+            <kisiMiKurummu>1</kisiMiKurummu>
+            <tarafadi>QNB FİNANSBANK ANONİM ŞİRKETİ</tarafadi>
+            <tekilAlan>0388002333400576</tekilAlan>
+            <tarafrolu>Tebligat Yapılacak 3. Taraf</tarafrolu>
+        </taraf>
+        <taraf>
+            <kisiMiKurummu>1</kisiMiKurummu>
+            <tarafadi>AKBANK TÜRK ANONİM ŞİRKETİ</tarafadi>
+            <tekilAlan>0015001526400497</tekilAlan>
+            <tarafrolu>Tebligat Yapılacak 3. Taraf</tarafrolu>
+        </taraf>
+        <taraf>
+            <kisiMiKurummu>1</kisiMiKurummu>
+            <tarafadi>YAPI VE KREDİ BANKASI ANONİM ŞİRKETİ</tarafadi>
+            <tekilAlan>0937002089200741</tekilAlan>
+            <tarafrolu>Tebligat Yapılacak 3. Taraf</tarafrolu>
+        </taraf>
+        <taraf>
+            <kisiMiKurummu>1</kisiMiKurummu>
+            <tarafadi>TÜRKİYE GARANTİ BANKASI ANONİM ŞİRKETİ</tarafadi>
+            <tekilAlan>0879001756600379</tekilAlan>
+            <tarafrolu>Tebligat Yapılacak 3. Taraf</tarafrolu>
+        </taraf>
+        <taraf>
+            <kisiMiKurummu>1</kisiMiKurummu>
+            <tarafadi>TÜRKİYE CUMHURİYETİ ZİRAAT BANKASI ANONİM ŞİRKETİ</tarafadi>
+            <tekilAlan/>
+            <tarafrolu>Tebligat Yapılacak 3. Taraf</tarafrolu>
+        </taraf>
+    </taraflar>
+    <dosyabilgileri>
+        <dosyano>2024/9993</dosyano>
+        <dosyatur>İcra Dosyası</dosyatur>
+        <aciklama>Avukat Tarafından İnternetten Açılan Dosya</aciklama>
+    </dosyabilgileri>
+    <birim>
+        <id>1054097</id>
+        <adi>Tokat İcra Dairesi</adi>
+        <il>60</il>
+        <ilce>1</ilce>
+        <detsisNo>73536742</detsisNo>
+    </birim>
+    <hacizbilgileri>
+        <hacizaciklama>Banka Hesap E-Haciz</hacizaciklama>
+        <hacizislemturukodu>5</hacizislemturukodu>
+        <hacizislemturuaciklama>Haciz Müzekkeresi</hacizislemturuaciklama>
+        <haciztarihi>20/09/2024</haciztarihi>
+        <hacizniteligikodu>2</hacizniteligikodu>
+        <hacizniteligiaciklama>Doğmuş ve Doğacak Hak ve Alacaklar</hacizniteligiaciklama>
+        <dosyaborcu/>
+        <maashesabiharicimi>true</maashesabiharicimi>
+        <ihtiyatihacizmi/>
+        <hacizkaldirilacakibannolar/>
+        <borclular>
+            <borclu>
+                <ortakad>MERDAL KİPEL</ortakad>
+                <tarafrolu>Borçlu</tarafrolu>
+                <turu>Kişi</turu>
+                <tckimlikno>24635551720</tckimlikno>
+                <mersisno/>
+                <vergino/>
+                <borcmiktari>182.844,16</borcmiktari>
+                <ihtiyatihacizmi>false</ihtiyatihacizmi>
+            </borclu>
+        </borclular>
+        <hesapturleri>
+            <hesapturu>
+                <hesapturukodu>00001</hesapturukodu>
+                <ibanno/>
+                <hesapturuaciklama>Vadesiz Türk Parası Hesabı</hesapturuaciklama>
+            </hesapturu>
+            <hesapturu>
+                <hesapturukodu>00002</hesapturukodu>
+                <ibanno/>
+                <hesapturuaciklama>Yatırım Hesabı Serbest Bakiye</hesapturuaciklama>
+            </hesapturu>
+            <hesapturu>
+                <hesapturukodu>00003</hesapturukodu>
+                <ibanno/>
+                <hesapturuaciklama>Vadesiz Yabancı Para Hesabı</hesapturuaciklama>
+            </hesapturu>
+            <hesapturu>
+                <hesapturukodu>00004</hesapturukodu>
+                <ibanno/>
+                <hesapturuaciklama>Kıymetli Maden Hesabı (Vadesiz Altın Hesabı Dahil)</hesapturuaciklama>
+            </hesapturu>
+            <hesapturu>
+                <hesapturukodu>00005</hesapturukodu>
+                <ibanno/>
+                <hesapturuaciklama>B Tipi Yatırım Fonu(B Tipi Likit ve Kısa Vadeli Tahvil-Bono Fonu)</hesapturuaciklama>
+            </hesapturu>
+            <hesapturu>
+                <hesapturukodu>00006</hesapturukodu>
+                <ibanno/>
+                <hesapturuaciklama>Hazine Bonosu &amp; Devlet Tahvili(TL)</hesapturuaciklama>
+            </hesapturu>
+            <hesapturu>
+                <hesapturukodu>00007</hesapturukodu>
+                <ibanno/>
+                <hesapturuaciklama>Repo</hesapturuaciklama>
+            </hesapturu>
+            <hesapturu>
+                <hesapturukodu>00008</hesapturukodu>
+                <ibanno/>
+                <hesapturuaciklama>Diğer Fonlar ve A Tipi Yatırım Fonu</hesapturuaciklama>
+            </hesapturu>
+            <hesapturu>
+                <hesapturukodu>00009</hesapturukodu>
+                <ibanno/>
+                <hesapturuaciklama>Vadeli Türk Parası Hesabı</hesapturuaciklama>
+            </hesapturu>
+            <hesapturu>
+                <hesapturukodu>00010</hesapturukodu>
+                <ibanno/>
+                <hesapturuaciklama>Vadeli Yabancı Para Hesabı</hesapturuaciklama>
+            </hesapturu>
+            <hesapturu>
+                <hesapturukodu>00011</hesapturukodu>
+                <ibanno/>
+                <hesapturuaciklama>Kıymetli Maden Hesabı (Vadeli Altın Hesabı dahil)</hesapturuaciklama>
+            </hesapturu>
+            <hesapturu>
+                <hesapturukodu>00012</hesapturukodu>
+                <ibanno/>
+                <hesapturuaciklama>Anapara Koruma Amaçlı ve Anapara Garantili Fonlar</hesapturuaciklama>
+            </hesapturu>
+            <hesapturu>
+                <hesapturukodu>00013</hesapturukodu>
+                <ibanno/>
+                <hesapturuaciklama>Hisse Senedi</hesapturuaciklama>
+            </hesapturu>
+            <hesapturu>
+                <hesapturukodu>00014</hesapturukodu>
+                <ibanno/>
+                <hesapturuaciklama>Diğer (Hazine Bonosu &amp; Devlet Tahvili/YP), Eurobond, VOB, Özel Sektör Tahvili v.b. menkul kıymetler)</hesapturuaciklama>
+            </hesapturu>
+            <hesapturu>
+                <hesapturukodu>00015</hesapturukodu>
+                <ibanno/>
+                <hesapturuaciklama>Alış Satış Emri Olan Kıymetler (Niteliği Değişebilen Varlıklar)</hesapturuaciklama>
+            </hesapturu>
+        </hesapturleri>
+        <alacaklilar>
+            <alacakli>
+                <adi>ALİ UMUT BALCI</adi>
+                <vekiller>
+                    <vekil>
+                        <adi>EMRULLAH</adi>
+                        <soyadi>ÖZER</soyadi>
+                        <tckimlikno>51913084618</tckimlikno>
+                    </vekil>
+                </vekiller>
+            </alacakli>
+        </alacaklilar>
+    </hacizbilgileri>
+</dava>
